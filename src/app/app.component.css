@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+}
+
+.mat-column-title {
+  width: 40%;
+}
+
+.mat-column-url {
+  width: 20%;
+}
+
+.mat-column-created_at {
+  width: 10%;
+}
+
+.mat-column-author {
+  width: 10%;
+}
